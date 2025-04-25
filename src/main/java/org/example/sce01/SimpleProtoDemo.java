@@ -14,5 +14,6 @@ public class SimpleProtoDemo {
                 .build();
 
         log.info("Person is : [{}]",person);
+
     }
 }
